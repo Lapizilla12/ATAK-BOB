@@ -73,3 +73,5 @@ Open the repository's **Releases** tab and download the build for your device:
 1. Click **`+ MAPAS`** on the top bar.
 2. Select **`Seleccionar Imagen o Paquete (.bobmap.json)...`** and choose an image (`PNG`/`WEBP`/`JPG`) or a `.bobmap.json` package file.
 3. Click **`Cargar Mapa`**. The map, grid calibration, and points of interest will remain saved on your device.
+
+<-- Nota: Solo dejo este proyecto para agrandar mi repositorio, denme chamba -->
